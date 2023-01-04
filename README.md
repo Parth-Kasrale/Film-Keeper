@@ -1,2 +1,2 @@
 # Film-Keeper
-Simple app to store films.
+App to store your favorite films using APIS.
